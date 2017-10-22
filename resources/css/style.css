@@ -2,3 +2,21 @@ body {
   font-family: helvetica;
   text-align: center;
 }
+
+.picture {
+  background-image: url("images/background.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+nav {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32;
+  font-weight: bold;
+}
