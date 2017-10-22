@@ -20,3 +20,26 @@ h2 {
   font-size: 32;
   font-weight: bold;
 }
+
+p {
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.white {
+  color: white;
+  background-image: url("images/background.png");
+}
+
+#copyright {
+  font-size: 11px;
+}
+footer {
+  background-color: dimgray;
+  text-align: left;
+  font-size: 18px;
+}
