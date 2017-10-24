@@ -4,7 +4,7 @@ body {
 }
 
 .picture {
-  background-image: url("images/background.png");
+  background-image: url("broadway/resources/images/background.png");
 }
 
 h1 {
@@ -32,14 +32,15 @@ h3 {
 
 .white {
   color: white;
-  background-image: url("images/background.png");
+  background-image: url("broadway/resources/images/background.png");
 }
 
-#copyright {
-  font-size: 11px;
-}
 footer {
-  background-color: dimgray;
   text-align: left;
-  font-size: 18px;
+  color: white;
+  background-color: dimgray;
+}
+
+.smaller {
+  font-size: 11px;
 }
